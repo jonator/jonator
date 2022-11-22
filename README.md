@@ -8,6 +8,12 @@ _What I'm working on_
 _What I'm interested in long term_
 * Bundle optimization, client-side decentralized computing (IBC relaying, light-client proofs)
 
+_My background_
+* Healthcare
+  * Patient-data visualization and engagement
+  * Provider bubble-messaging (like an integrated iMessage) on Apple Watch and web
+  * Started work on problem-centric patient data aggregation
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
