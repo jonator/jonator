@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Jon
+
+_What I'm working on_
+* Defi frontends in the Cosmos, currently for Osmosis
+* Dev tooling
+* Defi frontend asset/chain configuration standardization
+
+_What I'm interested in long term_
+* Bundle optimization, client-side decentralized computing (IBC relaying, light-client proofs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
