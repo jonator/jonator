@@ -12,7 +12,7 @@ _My background_
 * Healthcare
   * Patient-data visualization and engagement
   * Provider bubble-messaging (like an integrated iMessage) on Apple Watch and web
-  * Started work on problem-centric patient data aggregation
+  * Started work on problem-centric patient data aggregation, using standardization frameworks such as SNOMED
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
