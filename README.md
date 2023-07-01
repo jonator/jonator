@@ -1,12 +1,15 @@
 ### Hi there 👋, I'm Jon
 
 _What I'm working on_
-* Defi frontends in the Cosmos, currently for Osmosis
+* DeFi frontends in Cosmos ecosystem, currently for Osmosis
 * Dev tooling
-* Defi frontend asset/chain configuration standardization
+* DeFi frontend asset/chain configuration standardization
 
 _What I'm interested in long term_
-* Bundle optimization, client-side decentralized computing (IBC relaying, light-client proofs)
+* Bundle optimization
+* Client-side decentralized computing (IBC relaying, light-client proofs)
+* Native mobile development with SwiftUI
+* IBC routing and composability on frontends
 
 _My background_
 * Healthcare
@@ -14,7 +17,8 @@ _My background_
   * Provider bubble-messaging (like an integrated iMessage) on Apple Watch and web
   * Started work on problem-centric patient data aggregation, using standardization frameworks such as SNOMED
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonator&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Follow me on the bird app: https://twitter.com/JonathanAtor1
 
 <!--
 **jonator/jonator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
