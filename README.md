@@ -17,9 +17,6 @@ _My background_
   * Provider bubble-messaging (like an integrated iMessage) on Apple Watch and web
   * Started work on problem-centric patient data aggregation, using standardization frameworks such as SNOMED
 
-
-Follow me on the bird app: https://twitter.com/JonathanAtor1
-
 <!--
 **jonator/jonator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
